@@ -1,0 +1,13 @@
+.block {
+	margin: none;
+	background-color: black;
+	height: 7px;
+	width: 7px;
+	
+}
+
+.grid {
+	margin: 50px auto;
+	border: 1px solid blue;
+	/*height: 960px; width: 960px;*/
+}
